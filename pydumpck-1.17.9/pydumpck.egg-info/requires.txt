@@ -1,0 +1,5 @@
+sgtpyutils>=1.16.0
+pyinstaller>=5.10.1
+tinyaes
+uncompyle6>=3.9.0
+xdis>=6.0.5

@@ -1,0 +1,2 @@
+[console_scripts]
+pydumpck = pydumpck:run
